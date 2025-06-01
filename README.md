@@ -18,6 +18,7 @@
 - 🧑‍💻 Cybersecurity Virtual Experience
 - 🎓 A-Level Chemistry, Maths, and Computer Science
 - 🧪 Cambridge Chemistry Challenge (June 11)
+- 🧑‍💻 TryHackMe Pre-Security Course
 
 ## 📫 Contact Me
 - Email: bilal.ilyas642008@gmail.com
