@@ -12,7 +12,7 @@
 - Leadership: Ran chemistry practicals at sixth form open day
 
 ## 🔧 Projects & Work
-*(Coming soon)*
+- 🔐 **Secure Login System** — A VB.NET Windows Forms app with secure user authentication using PBKDF2 password hashing and SQL Server backend. Designed to be reusable and highly secure.
 
 ## 📚 Currently Working On
 - 🧑‍💻 Cybersecurity Virtual Experience
