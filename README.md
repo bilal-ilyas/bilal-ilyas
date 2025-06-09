@@ -13,7 +13,7 @@
 
 ## 🔧 Projects & Work
 - 🔐 **Secure Login System** — A VB.NET Windows Forms app with secure user authentication using PBKDF2 password hashing and SQL Server backend. Designed to be reusable and highly secure.
-
+*(More coming soon)*
 ## 📚 Currently Working On
 - 🧑‍💻 Cybersecurity Virtual Experience
 - 🎓 A-Level Chemistry, Maths, and Computer Science
