@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bilal Ilyas
 
 ## 🎯 About Me
-- 🎓 Year 12 student at Crossley Heath School
+- 🎓 Year 13 student at Crossley Heath School
 - 🔐 Cybersecurity and software enthusiast
 - 🥋 MMA practitioner | 💼 Interested in business and finance
 
